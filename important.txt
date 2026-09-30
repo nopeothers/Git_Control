@@ -1,1 +1,2 @@
 123 changed by dev_3
+изменение для stash 1 
